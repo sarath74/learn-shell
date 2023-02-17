@@ -10,4 +10,4 @@ learning shell scripting
 7. inputs
 8. exit status
 9. quotes
-10. redirecto
+10. redirectors
