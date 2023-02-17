@@ -3,4 +3,4 @@ learning shell scripting
 
 1. printing
 2. comments
-3. VARIABLES
+3. variables
