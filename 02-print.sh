@@ -13,8 +13,8 @@
 # \e[0m -> zero code is going to reset the color,meaning if we enable color for sure we want to disable it,
 #otherwise the   colors will continue  on screen
 we can use single or double quotes,however double quotes are preferred.
- echo -e "\e[31mHello in Red color\e[0m"
- echo hello world hai
+echo -e "\e[31mHello in Red color\e[0m"
+echo hello world hai
 
 
 
