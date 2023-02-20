@@ -6,7 +6,7 @@ DATE=$(date)
 echo "hello,Good Morning Today DATE is ${DATE}"
 
 # Arithmetic Substitution
-# ADD=$((2+3))
+ADD=$((2+3))
 echo "Addition of 2+3 = ${ADD}"
 
 ## Accessing Variable from Shell
