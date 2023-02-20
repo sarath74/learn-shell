@@ -5,5 +5,6 @@ echo "hello,Good Morning Today DATE is ${DATE}"
 DATE=$(date)
 echo "hello,Good Morning Today DATE is ${DATE}"
 
-# Arithmetic SubstitutionADD=$((2+3))
+# Arithmetic Substitution
+# ADD=$((2+3))
 echo "Addition of 2+3 = ${ADD}"
